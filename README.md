@@ -8,7 +8,12 @@
 
 * 🔭 I’m currently learning more about some of the Python libraries and Vue.js
 
+### Languages
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MurdockDM&layout=compact&theme=cobalt)
+(Created using https://github.com/anuraghazra/github-readme-stats#github-stats-card)
+
+### Contact
 * 📫 How to reach me: 
 https://www.linkedin.com/in/dustinmurdock/ 
 or

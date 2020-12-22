@@ -6,7 +6,7 @@
 * In my previous career I was a medical laboratory scientist before I became
   intensely interested in software development.
 
-* 🔭 I’m currently learning more about some of the Python libraries and Vue.js
+* 🔭 I’m currently learning more about Node.js and Vue.js
 
 ### Languages
 
